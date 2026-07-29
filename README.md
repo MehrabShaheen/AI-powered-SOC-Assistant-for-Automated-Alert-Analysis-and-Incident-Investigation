@@ -84,7 +84,7 @@ This project explores how Artificial Intelligence can augment modern Security Op
 The platform follows a **Human-in-the-Loop** approach, ensuring that AI supports security analysts without replacing human expertise or decision-making.
 
 <div align="center">
-<img src="./assets/soc-illustration.svg" alt="Modern SOC — from noise to signal" width="100%"/>
+<img src="./soc-illustration.svg" alt="Modern SOC — from noise to signal" width="100%"/>
 </div>
 
 **Problems Addressed**
@@ -109,7 +109,7 @@ To demonstrate how AI-assisted investigation workflows can improve Security Oper
 The AI-powered SOC Assistant is designed around analyst-centric workflows commonly found in modern Security Operations Centers. Instead of replacing existing security monitoring platforms, the system enhances investigation quality by providing additional context, intelligent reasoning, and actionable insights.
 
 <div align="center">
-<img src="./assets/key-capabilities.svg" alt="Key capabilities" width="100%"/>
+<img src="./key-capabilities.svg" alt="Key capabilities" width="100%"/>
 </div>
 
 <details>
@@ -149,7 +149,7 @@ This project demonstrates how Artificial Intelligence can augment modern SOC wor
 **Analyst-Centric Security Operations** — the platform is designed to support security analysts throughout the investigation lifecycle by providing meaningful context instead of simply displaying security events.
 
 <div align="center">
-<img src="./assets/modern-soc-capabilities.svg" alt="Analyst-centric security operations" width="100%"/>
+<img src="./modern-soc-capabilities.svg" alt="Analyst-centric security operations" width="100%"/>
 </div>
 
 <br/>
@@ -179,7 +179,7 @@ The AI-powered SOC Assistant follows a modular architecture designed around mode
 The AI-powered SOC Assistant follows a structured investigation workflow designed to assist security analysts from initial alert ingestion to final incident assessment. Rather than treating alerts as isolated events, the platform organizes relevant security context into a logical investigation process that improves efficiency, consistency, and decision quality.
 
 <div align="center">
-<img src="./assets/workflow-diagram.svg" alt="Investigation workflow lifecycle" width="60%"/>
+<img src="./workflow-diagram.svg" alt="Investigation workflow lifecycle" width="60%"/>
 </div>
 
 **Workflow Objectives**
@@ -207,7 +207,7 @@ The AI-powered SOC Assistant follows a structured investigation workflow designe
 The platform is composed of multiple functional components that collectively support modern Security Operations Center workflows. Each component focuses on a specific responsibility while contributing to an integrated investigation experience.
 
 <div align="center">
-<img src="./assets/core-components.svg" alt="Core components" width="100%"/>
+<img src="./core-components.svg" alt="Core components" width="100%"/>
 </div>
 
 <br/>
@@ -217,7 +217,7 @@ The platform is composed of multiple functional components that collectively sup
 The project combines modern cybersecurity technologies, backend services, Artificial Intelligence, and data management components to demonstrate an AI-assisted Security Operations Center architecture.
 
 <div align="center">
-<img src="./assets/tech-stack.svg" alt="Technology stack" width="100%"/>
+<img src="./tech-stack.svg" alt="Technology stack" width="100%"/>
 </div>
 
 | Category | Technologies |
@@ -237,7 +237,7 @@ The project combines modern cybersecurity technologies, backend services, Artifi
 Artificial Intelligence enhances the investigation workflow by combining contextual understanding, semantic retrieval, and explainable reasoning. Rather than replacing analyst expertise, AI acts as an intelligent investigation assistant that provides additional context for informed security decisions.
 
 <div align="center">
-<img src="./assets/ai-pipeline.svg" alt="AI investigation pipeline" width="100%"/>
+<img src="./ai-pipeline.svg" alt="AI investigation pipeline" width="100%"/>
 </div>
 
 **AI Investigation Goals**
@@ -291,7 +291,7 @@ The security pipeline illustrates how security events progress through multiple 
 ## Engineering Highlights
 
 <div align="center">
-<img src="./assets/engineering-highlights.svg" alt="Engineering principles" width="100%"/>
+<img src="./engineering-highlights.svg" alt="Engineering principles" width="100%"/>
 </div>
 
 <br/>
@@ -299,7 +299,7 @@ The security pipeline illustrates how security events progress through multiple 
 ## Future Roadmap
 
 <div align="center">
-<img src="./assets/roadmap-timeline.svg" alt="Future roadmap" width="100%"/>
+<img src="./roadmap-timeline.svg" alt="Future roadmap" width="100%"/>
 </div>
 
 > *(Edit `roadmap-timeline.svg` with real, verified next steps — do not present planned work as completed.)*
@@ -307,7 +307,7 @@ The security pipeline illustrates how security events progress through multiple 
 <br/>
 
 <div align="center">
-<img src="./assets/footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
+<img src="./footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
 </div>
 
 ---
