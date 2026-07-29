@@ -251,14 +251,6 @@ Artificial Intelligence enhances the investigation workflow by combining context
 
 <br/>
 
-## Engineering Highlights
-
-<div align="center">
-<img src="./engineering-highlights.svg" alt="Engineering principles" width="100%"/>
-</div>
-
-<br/>
-
 
 <br/>
 
