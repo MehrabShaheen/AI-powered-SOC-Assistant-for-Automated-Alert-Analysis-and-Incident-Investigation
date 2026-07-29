@@ -159,7 +159,7 @@ This project demonstrates how Artificial Intelligence can augment modern SOC wor
 The AI-powered SOC Assistant follows a modular architecture designed around modern Security Operations Center workflows. Each component contributes to transforming raw security alerts into meaningful investigation outcomes while maintaining scalability, flexibility, and analyst control.
 
 <div align="center">
-<img src="./assets/architecture-diagram.svg" alt="System architecture — high-level workflow" width="60%"/>
+<img src="./architecture-diagram.svg" alt="System architecture — high-level workflow" width="60%"/>
 </div>
 
 **Architectural Principles**
@@ -265,7 +265,7 @@ Artificial Intelligence enhances the investigation workflow by combining context
 The security pipeline illustrates how security events progress through multiple stages before reaching the analyst. Each stage contributes additional context that improves investigation quality while maintaining a structured Security Operations Center workflow.
 
 <div align="center">
-<img src="./assets/security-pipeline.svg" alt="Security pipeline" width="100%"/>
+<img src="./security-pipeline.svg" alt="Security pipeline" width="100%"/>
 </div>
 
 **Pipeline Objectives**
@@ -309,24 +309,6 @@ The security pipeline illustrates how security events progress through multiple 
 <div align="center">
 <img src="./footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
 </div>
-
----
-
-## SVG Asset Manifest
-
-All assets live in `/assets`. Each was custom-built for this repository — same dark-navy/blue-cyan visual language, rounded cards, thin glowing borders, no stock illustrations.
-
-| # | File | Placement | Width | Purpose |
-|---|---|---|---|---|
-| 1 | `hero-banner.svg` | Top of README | 100% | Title, tagline, shield mark |
-| 2 | `what-it-demonstrates.svg` | After Project Overview | 100% | Chip grid of disciplines demonstrated |
-| 3 | `soc-illustration.svg` | In "Why This Project" | 100% | Noise → AI → signal visual metaphor |
-| 4 | `key-capabilities.svg` | Key Capabilities section | 100% | 10-card capability grid |
-| 5 | `modern-soc-capabilities.svg` | Modern SOC Capabilities section | 100% | 8-card analyst-centric ops grid |
-| 6 | `architecture-diagram.svg` | System Architecture | 60% | 11-step vertical high-level workflow |
-| 7 | `workflow-diagram.svg` | Investigation Workflow | 60% | 10-step investigation lifecycle |
-| 8 | `core-components.svg` | Core Components | 100% | 8-card component grid |
-| 9 | `tech-stack.svg` | Technology Stack | 100% | Category-grouped technology chips |
 | 10 | `ai-pipeline.svg` | AI Investigation Pipeline | 100% | 7-step horizontal pipeline |
 | 11 | `security-pipeline.svg` | Security Pipeline | 100% | 9-step horizontal pipeline |
 | 12 | `engineering-highlights.svg` | Engineering Highlights | 100% | 5 architectural-principle cards |
