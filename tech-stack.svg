@@ -1,0 +1,64 @@
+<svg width="1000" height="456" viewBox="0 0 1000 456" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1F44"/>
+      <stop offset="100%" stop-color="#123B6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="456" rx="10" fill="url(#bg9)"/>
+  <g font-family="Segoe UI, sans-serif">
+<text x="24" y="24" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">SECURITY OPERATIONS</text>
+<rect x="24" y="48" width="88" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="68.0" y="65" text-anchor="middle" font-size="11" fill="#EAF6FF">Wazuh SIEM</text>
+<rect x="122" y="48" width="60" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="152.0" y="65" text-anchor="middle" font-size="11" fill="#EAF6FF">Sysmon</text>
+<rect x="192" y="48" width="102" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="243.0" y="65" text-anchor="middle" font-size="11" fill="#EAF6FF">Suricata IDS</text>
+<rect x="304" y="48" width="102" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="355.0" y="65" text-anchor="middle" font-size="11" fill="#EAF6FF">MITRE ATT&CK</text>
+<text x="24" y="82" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">ARTIFICIAL INTELLIGENCE</text>
+<rect x="24" y="106" width="46" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="47.0" y="123" text-anchor="middle" font-size="11" fill="#EAF6FF">LLMs</text>
+<rect x="80" y="106" width="39" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="99.5" y="123" text-anchor="middle" font-size="11" fill="#EAF6FF">RAG</text>
+<rect x="129" y="106" width="81" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="169.5" y="123" text-anchor="middle" font-size="11" fill="#EAF6FF">LangGraph</text>
+<rect x="220" y="106" width="137" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="288.5" y="123" text-anchor="middle" font-size="11" fill="#EAF6FF">Vector Embeddings</text>
+<text x="24" y="140" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">BACKEND</text>
+<rect x="24" y="164" width="67" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="57.5" y="181" text-anchor="middle" font-size="11" fill="#EAF6FF">FastAPI</text>
+<rect x="101" y="164" width="60" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="131.0" y="181" text-anchor="middle" font-size="11" fill="#EAF6FF">Python</text>
+<rect x="171" y="164" width="102" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="222.0" y="181" text-anchor="middle" font-size="11" fill="#EAF6FF">RESTful APIs</text>
+<text x="24" y="198" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">DATA MANAGEMENT</text>
+<rect x="24" y="222" width="88" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="68.0" y="239" text-anchor="middle" font-size="11" fill="#EAF6FF">PostgreSQL</text>
+<rect x="122" y="222" width="74" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="159.0" y="239" text-anchor="middle" font-size="11" fill="#EAF6FF">ChromaDB</text>
+<text x="24" y="256" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">FRONTEND</text>
+<rect x="24" y="280" width="53" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="50.5" y="297" text-anchor="middle" font-size="11" fill="#EAF6FF">React</text>
+<rect x="87" y="280" width="53" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="113.5" y="297" text-anchor="middle" font-size="11" fill="#EAF6FF">HTML5</text>
+<rect x="150" y="280" width="46" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="173.0" y="297" text-anchor="middle" font-size="11" fill="#EAF6FF">CSS3</text>
+<rect x="206" y="280" width="74" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="243.0" y="297" text-anchor="middle" font-size="11" fill="#EAF6FF">Chart.js</text>
+<rect x="290" y="280" width="81" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="330.5" y="297" text-anchor="middle" font-size="11" fill="#EAF6FF">WebSocket</text>
+<text x="24" y="314" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">THREAT INTELLIGENCE</text>
+<rect x="24" y="338" width="88" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="68.0" y="355" text-anchor="middle" font-size="11" fill="#EAF6FF">VirusTotal</text>
+<rect x="122" y="338" width="81" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="162.5" y="355" text-anchor="middle" font-size="11" fill="#EAF6FF">AbuseIPDB</text>
+<text x="24" y="372" font-family="Consolas, monospace" font-size="11.5" fill="#7EDCFF">DEV ENVIRONMENT</text>
+<rect x="24" y="396" width="144" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="96.0" y="413" text-anchor="middle" font-size="11" fill="#EAF6FF">VMware Workstation</text>
+<rect x="178" y="396" width="116" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="236.0" y="413" text-anchor="middle" font-size="11" fill="#EAF6FF">Windows Server</text>
+<rect x="304" y="396" width="102" height="26" rx="13" fill="#0F3460" stroke="#2E9EFF" stroke-width="1"/>
+<text x="355.0" y="413" text-anchor="middle" font-size="11" fill="#EAF6FF">Ubuntu Linux</text>
+  </g>
+</svg>
