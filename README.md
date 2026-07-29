@@ -13,7 +13,7 @@ SETUP:
 -->
 
 <div align="center">
-<img src="./assets/hero-banner.svg" alt="AI-Powered SOC Assistant" width="100%"/>
+<img src="./header.svg" alt="AI-Powered SOC Assistant" width="100%"/>
 </div>
 
 <div align="center">
