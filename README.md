@@ -55,7 +55,7 @@ Instead of presenting isolated alerts, the platform focuses on identifying relat
 This repository showcases the design of a modern AI-assisted SOC platform that combines cybersecurity operations with Artificial Intelligence to support real-world investigation workflows.
 
 <div align="center">
-<img src="./assets/what-it-demonstrates.svg" alt="Core disciplines demonstrated" width="100%"/>
+<img src="./what-it-demonstrates.svg" alt="Core disciplines demonstrated" width="100%"/>
 </div>
 
 The project demonstrates practical understanding of:
