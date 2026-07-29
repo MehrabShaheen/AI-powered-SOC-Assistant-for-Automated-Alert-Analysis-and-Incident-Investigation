@@ -249,15 +249,6 @@ Artificial Intelligence enhances the investigation workflow by combining context
 - Support analyst decision-making.
 - Accelerate security investigations while maintaining transparency.
 
-**AI Capabilities**
-
-- Context-aware alert analysis
-- Investigation assistance
-- Security reasoning
-- Incident summarization
-- Knowledge-assisted investigations
-- Explainable recommendations
-
 <br/>
 
 ## Security Pipeline
@@ -267,25 +258,6 @@ The security pipeline illustrates how security events progress through multiple 
 <div align="center">
 <img src="./security-pipeline.svg" alt="Security pipeline" width="100%"/>
 </div>
-
-**Pipeline Objectives**
-
-- Collect security events from monitoring systems.
-- Organize alerts into structured investigations.
-- Enrich alerts with additional security context.
-- Correlate related activities across investigations.
-- Support explainable AI-assisted analysis.
-- Deliver investigation-ready information to analysts.
-
-**Design Principles**
-
-- Analyst-first architecture
-- Context-driven investigation
-- Modular security components
-- Explainable AI
-- Human-in-the-loop decision support
-- Scalable investigation workflow
-
 <br/>
 
 ## Engineering Highlights
@@ -296,21 +268,9 @@ The security pipeline illustrates how security events progress through multiple 
 
 <br/>
 
-## Future Roadmap
-
-<div align="center">
-<img src="./roadmap-timeline.svg" alt="Future roadmap" width="100%"/>
-</div>
-
-> *(Edit `roadmap-timeline.svg` with real, verified next steps — do not present planned work as completed.)*
 
 <br/>
 
 <div align="center">
 <img src="./footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
 </div>
-| 10 | `ai-pipeline.svg` | AI Investigation Pipeline | 100% | 7-step horizontal pipeline |
-| 11 | `security-pipeline.svg` | Security Pipeline | 100% | 9-step horizontal pipeline |
-| 12 | `engineering-highlights.svg` | Engineering Highlights | 100% | 5 architectural-principle cards |
-| 13 | `roadmap-timeline.svg` | Future Roadmap | 100% | Editable milestone timeline |
-| — | `footer-banner.svg` | Bottom of README | 100% | Closing shield banner |
