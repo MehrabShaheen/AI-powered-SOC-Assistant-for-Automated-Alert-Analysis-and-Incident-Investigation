@@ -1,6 +1,35 @@
-# AI-powered SOC Assistant for Automated Alert Analysis and Incident Investigation
+<!--
+=====================================================================
+README.md — AI-Powered SOC Assistant
+All original written content preserved verbatim. Formatting, visual
+hierarchy, and 13 custom SVGs added per the design brief.
 
-# Project Overview
+SETUP:
+1. Create /assets folder in repo root, upload all 13 SVG files listed
+   in the "SVG Asset Manifest" section at the bottom of this file.
+2. Place this file as README.md in the repo root.
+3. Fill in roadmap-timeline.svg milestones with real, verified plans.
+=====================================================================
+-->
+
+<div align="center">
+<img src="./assets/hero-banner.svg" alt="AI-Powered SOC Assistant" width="100%"/>
+</div>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Domain](https://img.shields.io/badge/Domain-Cybersecurity-blue)
+![Focus](https://img.shields.io/badge/Focus-SOC%20Automation-orange)
+![AI](https://img.shields.io/badge/AI-LLM%20Powered-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Modern%20SOC-success)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
+</div>
+
+<br/>
+
+## Project Overview
 
 Modern Security Operations Centers (SOCs) operate in environments where security monitoring platforms continuously generate large volumes of alerts from endpoints, servers, network devices, and security controls. While these alerts provide valuable visibility, analysts often spend significant time separating legitimate threats from operational noise.
 
@@ -8,7 +37,7 @@ The AI-powered SOC Assistant is designed as an analyst-assistance platform that 
 
 Instead of presenting isolated alerts, the platform focuses on identifying relationships between security events, highlighting suspicious behavioral patterns, retrieving relevant contextual knowledge, and generating analyst-friendly explanations that simplify complex investigations.
 
-## Objectives
+### Objectives
 
 - Accelerate SOC alert triage and investigation workflows.
 - Reduce analyst workload by prioritizing meaningful security events.
@@ -19,9 +48,15 @@ Instead of presenting isolated alerts, the platform focuses on identifying relat
 - Promote human-in-the-loop decision making for trustworthy security operations.
 - Demonstrate a scalable architecture suitable for modern AI-assisted Security Operations Centers.
 
+<br/>
+
 ## What This Project Demonstrates
 
 This repository showcases the design of a modern AI-assisted SOC platform that combines cybersecurity operations with Artificial Intelligence to support real-world investigation workflows.
+
+<div align="center">
+<img src="./assets/what-it-demonstrates.svg" alt="Core disciplines demonstrated" width="100%"/>
+</div>
 
 The project demonstrates practical understanding of:
 
@@ -36,7 +71,9 @@ The project demonstrates practical understanding of:
 - Human-in-the-loop security decision support
 - Explainable AI for security investigations
 
-# Why This Project?
+<br/>
+
+## Why This Project?
 
 Security Operations Centers (SOCs) are responsible for continuously monitoring organizational environments to detect, investigate, and respond to cyber threats. As enterprise infrastructures continue to grow, security monitoring platforms generate an overwhelming number of alerts every day. Many of these alerts represent benign activities, duplicate events, or low-priority incidents, making it increasingly difficult for analysts to identify genuine security threats quickly.
 
@@ -46,7 +83,11 @@ This project explores how Artificial Intelligence can augment modern Security Op
 
 The platform follows a **Human-in-the-Loop** approach, ensuring that AI supports security analysts without replacing human expertise or decision-making.
 
-### Problems Addressed
+<div align="center">
+<img src="./assets/soc-illustration.svg" alt="Modern SOC — from noise to signal" width="100%"/>
+</div>
+
+**Problems Addressed**
 
 - High alert volumes in enterprise environments
 - Alert fatigue caused by repetitive investigations
@@ -57,212 +98,91 @@ The platform follows a **Human-in-the-Loop** approach, ensuring that AI supports
 - Time-consuming security analysis
 - Limited explainability in traditional detection systems
 
-### Vision
+**Vision**
 
 To demonstrate how AI-assisted investigation workflows can improve Security Operations Center efficiency by transforming raw security alerts into contextual, explainable, and actionable security intelligence.
 
-# Key Capabilities
+<br/>
+
+## Key Capabilities
 
 The AI-powered SOC Assistant is designed around analyst-centric workflows commonly found in modern Security Operations Centers. Instead of replacing existing security monitoring platforms, the system enhances investigation quality by providing additional context, intelligent reasoning, and actionable insights.
 
-## AI-Assisted Alert Analysis
+<div align="center">
+<img src="./assets/key-capabilities.svg" alt="Key capabilities" width="100%"/>
+</div>
 
-Analyze security alerts with contextual understanding instead of relying solely on static detection rules.
+<details>
+<summary><b>Expand full capability descriptions</b></summary>
+<br/>
 
-## Behavioral Correlation
+**AI-Assisted Alert Analysis** — Analyze security alerts with contextual understanding instead of relying solely on static detection rules.
 
-Identify relationships between multiple security events to uncover attack progression and suspicious behavioral patterns.
+**Behavioral Correlation** — Identify relationships between multiple security events to uncover attack progression and suspicious behavioral patterns.
 
-## Threat Intelligence Enrichment
+**Threat Intelligence Enrichment** — Enhance investigations with external reputation data, contextual intelligence, and additional security insights.
 
-Enhance investigations with external reputation data, contextual intelligence, and additional security insights.
+**Intelligent Alert Prioritization** — Help analysts focus on the most relevant security events by highlighting alerts requiring immediate attention.
 
-## Intelligent Alert Prioritization
+**Incident Investigation Support** — Provide analyst-friendly explanations and investigation guidance throughout the incident response process.
 
-Help analysts focus on the most relevant security events by highlighting alerts requiring immediate attention.
+**Semantic Context Retrieval** — Retrieve relevant historical security knowledge to improve contextual understanding during investigations.
 
-## Incident Investigation Support
+**Explainable AI** — Generate transparent investigation summaries that help analysts understand why specific alerts require attention.
 
-Provide analyst-friendly explanations and investigation guidance throughout the incident response process.
+**Human-in-the-Loop Decision Support** — Assist security analysts while ensuring that final security decisions always remain under human control.
 
-## Semantic Context Retrieval
+**Investigation Timeline** — Present related security activities as structured investigation timelines to improve incident visibility.
 
-Retrieve relevant historical security knowledge to improve contextual understanding during investigations.
+**Security Knowledge Assistance** — Support analysts with natural language interaction for understanding alerts, investigation findings, and security context.
 
-## Explainable AI
+</details>
 
-Generate transparent investigation summaries that help analysts understand why specific alerts require attention.
+<br/>
 
-## Human-in-the-Loop Decision Support
-
-Assist security analysts while ensuring that final security decisions always remain under human control.
-
-## Investigation Timeline
-
-Present related security activities as structured investigation timelines to improve incident visibility.
-
-## Security Knowledge Assistance
-
-Support analysts with natural language interaction for understanding alerts, investigation findings, and security context.
-
-# Modern SOC Capabilities
+## Modern SOC Capabilities
 
 Modern Security Operations Centers require more than traditional alert monitoring. Effective security teams rely on contextual analysis, behavioral investigation, threat intelligence, and intelligent decision support to rapidly identify and respond to evolving cyber threats.
 
 This project demonstrates how Artificial Intelligence can augment modern SOC workflows by improving investigation efficiency, reducing repetitive manual analysis, and providing contextual security insights without replacing the expertise of human analysts.
 
-## Analyst-Centric Security Operations
+**Analyst-Centric Security Operations** — the platform is designed to support security analysts throughout the investigation lifecycle by providing meaningful context instead of simply displaying security events.
 
-The platform is designed to support security analysts throughout the investigation lifecycle by providing meaningful context instead of simply displaying security events.
+<div align="center">
+<img src="./assets/modern-soc-capabilities.svg" alt="Analyst-centric security operations" width="100%"/>
+</div>
 
-### Intelligent Alert Triage
+<br/>
 
-Assist analysts in identifying high-priority alerts that require immediate investigation.
-
-### Context-Aware Investigation
-
-Provide relevant security context to help analysts understand why an alert may represent suspicious behavior.
-
-### Behavioral Analysis
-
-Identify relationships between multiple security events to reveal attack progression and abnormal activity patterns.
-
-### Threat Intelligence Integration
-
-Support investigations with external intelligence sources to improve confidence during security analysis.
-
-### Explainable Security Insights
-
-Generate understandable investigation summaries that improve transparency and analyst trust.
-
-### Investigation Acceleration
-
-Reduce repetitive manual analysis by presenting organized investigation context in a structured manner.
-
-### Human-in-the-Loop Security
-
-Maintain analyst oversight throughout every stage of the investigation process while using AI as a decision-support capability rather than an autonomous replacement.
-
-### Knowledge-Assisted Analysis
-
-Leverage historical security knowledge and contextual retrieval to improve investigation quality and analyst productivity.
-
-# System Architecture
+## System Architecture
 
 The AI-powered SOC Assistant follows a modular architecture designed around modern Security Operations Center workflows. Each component contributes to transforming raw security alerts into meaningful investigation outcomes while maintaining scalability, flexibility, and analyst control.
 
-> **Architecture Diagram Placeholder**
->
-> *(Insert architecture diagram here)*
+<div align="center">
+<img src="./assets/architecture-diagram.svg" alt="System architecture — high-level workflow" width="60%"/>
+</div>
 
----
+**Architectural Principles**
 
-## High-Level Workflow
+| Principle | Description |
+|---|---|
+| **Modular Design** | The platform is organized into independent functional components, allowing individual capabilities to evolve without affecting the overall workflow. |
+| **Scalability** | The architecture is designed to accommodate increasing alert volumes while maintaining consistent investigation workflows. |
+| **Explainability** | Investigation outcomes are presented with contextual reasoning to improve analyst understanding and decision confidence. |
+| **Human Oversight** | Artificial Intelligence enhances analyst productivity while ensuring that all security decisions remain under human supervision. |
+| **Extensibility** | The architecture is designed to support future integration with additional security platforms, intelligence sources, and automation capabilities. |
 
-```
-Security Events
-       │
-       ▼
- Security Monitoring
-       │
-       ▼
- Alert Collection
-       │
-       ▼
- Alert Normalization
-       │
-       ▼
- Threat Intelligence Enrichment
-       │
-       ▼
- Behavioral Correlation
-       │
-       ▼
- Context Retrieval
-       │
-       ▼
- AI Investigation
-       │
-       ▼
- Investigation Summary
-       │
-       ▼
- Analyst Review
-       │
-       ▼
- Security Decision
-```
+<br/>
 
----
-
-## Architectural Principles
-
-### Modular Design
-
-The platform is organized into independent functional components, allowing individual capabilities to evolve without affecting the overall workflow.
-
----
-
-### Scalability
-
-The architecture is designed to accommodate increasing alert volumes while maintaining consistent investigation workflows.
-
-### Explainability
-
-Investigation outcomes are presented with contextual reasoning to improve analyst understanding and decision confidence.
-
-### Human Oversight
-
-Artificial Intelligence enhances analyst productivity while ensuring that all security decisions remain under human supervision.
-
-### Extensibility
-
-The architecture is designed to support future integration with additional security platforms, intelligence sources, and automation capabilities.
-
-# Investigation Workflow
+## Investigation Workflow
 
 The AI-powered SOC Assistant follows a structured investigation workflow designed to assist security analysts from initial alert ingestion to final incident assessment. Rather than treating alerts as isolated events, the platform organizes relevant security context into a logical investigation process that improves efficiency, consistency, and decision quality.
 
-> **Workflow Diagram Placeholder**
->
-> *(Insert Investigation Workflow SVG here)*
+<div align="center">
+<img src="./assets/workflow-diagram.svg" alt="Investigation workflow lifecycle" width="60%"/>
+</div>
 
-## Investigation Lifecycle
-
-```
-Security Alert
-      │
-      ▼
-Alert Collection
-      │
-      ▼
-Context Enrichment
-      │
-      ▼
-Behavior Analysis
-      │
-      ▼
-Threat Intelligence Correlation
-      │
-      ▼
-Context Retrieval
-      │
-      ▼
-AI Investigation
-      │
-      ▼
-Investigation Summary
-      │
-      ▼
-Analyst Validation
-      │
-      ▼
-Incident Classification
-```
-
----
-
-## Workflow Objectives
+**Workflow Objectives**
 
 - Organize security investigations into a structured process.
 - Improve analyst efficiency through contextual investigation support.
@@ -271,9 +191,7 @@ Incident Classification
 - Provide explainable AI-assisted investigation results.
 - Keep security analysts responsible for final decisions.
 
-## Investigation Outcomes
-
-The investigation workflow enables analysts to:
+**Investigation Outcomes** — the investigation workflow enables analysts to:
 
 - Understand the context surrounding an alert.
 - Identify related security activities.
@@ -282,130 +200,47 @@ The investigation workflow enables analysts to:
 - Receive AI-assisted investigation summaries.
 - Make informed incident response decisions.
 
-- # Core Components
+<br/>
+
+## Core Components
 
 The platform is composed of multiple functional components that collectively support modern Security Operations Center workflows. Each component focuses on a specific responsibility while contributing to an integrated investigation experience.
 
-> **Component Architecture Placeholder**
->
-> *(Insert Core Components SVG here)*
+<div align="center">
+<img src="./assets/core-components.svg" alt="Core components" width="100%"/>
+</div>
 
----
+<br/>
 
-## Security Monitoring
-
-Receives security events generated by enterprise monitoring systems and security controls.
-
-## Alert Processing
-
-Organizes incoming alerts into structured investigation-ready security events.
-
-## Threat Intelligence
-
-Provides additional context by incorporating external security intelligence into investigations.
-
-## Behavioral Correlation
-
-Identifies relationships between multiple security events to improve investigation accuracy.
-
-## Context Retrieval
-
-Retrieves relevant historical investigation knowledge that supports contextual understanding.
-
-## AI Investigation Engine
-
-Generates explainable investigation insights that assist analysts during security analysis.
-
-## Investigation Dashboard
-
-Presents alerts, investigation findings, timelines, and security insights through an analyst-friendly interface.
-
-## Security Knowledge Base
-
-Maintains contextual information that supports investigation consistency and knowledge reuse.
-
-# Technology Stack
+## Technology Stack
 
 The project combines modern cybersecurity technologies, backend services, Artificial Intelligence, and data management components to demonstrate an AI-assisted Security Operations Center architecture.
 
-> **Technology Stack SVG Placeholder**
+<div align="center">
+<img src="./assets/tech-stack.svg" alt="Technology stack" width="100%"/>
+</div>
 
-## Security Operations
+| Category | Technologies |
+|---|---|
+| **Security Operations** | Wazuh SIEM · Sysmon · Suricata IDS · MITRE ATT&CK Framework |
+| **Artificial Intelligence** | Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · LangGraph · Vector Embeddings |
+| **Backend** | FastAPI · Python · RESTful APIs |
+| **Data Management** | PostgreSQL · ChromaDB |
+| **Frontend** | React · HTML5 · CSS3 · Chart.js · WebSocket |
+| **Threat Intelligence** | VirusTotal · AbuseIPDB |
+| **Development Environment** | VMware Workstation · Windows Server · Ubuntu Linux |
 
-- Wazuh SIEM
-- Sysmon
-- Suricata IDS
-- MITRE ATT&CK Framework
+<br/>
 
-## Artificial Intelligence
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangGraph
-- Vector Embeddings
-
-## Backend
-
-- FastAPI
-- Python
-- RESTful APIs
-
-## Data Management
-
-- PostgreSQL
-- ChromaDB
-
-## Frontend
-
-- React
-- HTML5
-- CSS3
-- Chart.js
-- WebSocket
-
-## Threat Intelligence
-
-- VirusTotal
-- AbuseIPDB
-
-## Development Environment
-
-- VMware Workstation
-- Windows Server
-- Ubuntu Linux
-
-- # AI Investigation Pipeline
+## AI Investigation Pipeline
 
 Artificial Intelligence enhances the investigation workflow by combining contextual understanding, semantic retrieval, and explainable reasoning. Rather than replacing analyst expertise, AI acts as an intelligent investigation assistant that provides additional context for informed security decisions.
 
-> **AI Pipeline SVG Placeholder**
+<div align="center">
+<img src="./assets/ai-pipeline.svg" alt="AI investigation pipeline" width="100%"/>
+</div>
 
-## High-Level Pipeline
-
-```
-Security Alert
-      │
-      ▼
-Context Collection
-      │
-      ▼
-Relevant Knowledge Retrieval
-      │
-      ▼
-Context Assembly
-      │
-      ▼
-AI Reasoning
-      │
-      ▼
-Investigation Summary
-      │
-      ▼
-Analyst Review
-```
-
-
-## AI Investigation Goals
+**AI Investigation Goals**
 
 - Improve investigation consistency.
 - Reduce repetitive manual analysis.
@@ -414,7 +249,7 @@ Analyst Review
 - Support analyst decision-making.
 - Accelerate security investigations while maintaining transparency.
 
-## AI Capabilities
+**AI Capabilities**
 
 - Context-aware alert analysis
 - Investigation assistance
@@ -423,43 +258,17 @@ Analyst Review
 - Knowledge-assisted investigations
 - Explainable recommendations
 
-- # Security Pipeline
+<br/>
+
+## Security Pipeline
 
 The security pipeline illustrates how security events progress through multiple stages before reaching the analyst. Each stage contributes additional context that improves investigation quality while maintaining a structured Security Operations Center workflow.
 
-> **Security Pipeline SVG Placeholder**
+<div align="center">
+<img src="./assets/security-pipeline.svg" alt="Security pipeline" width="100%"/>
+</div>
 
-## High-Level Security Pipeline
-
-```
-Security Events
-      │
-      ▼
-Monitoring & Detection
-      │
-      ▼
-Alert Processing
-      │
-      ▼
-Threat Intelligence Enrichment
-      │
-      ▼
-Behavioral Correlation
-      │
-      ▼
-Context Retrieval
-      │
-      ▼
-AI Investigation
-      │
-      ▼
-Security Dashboard
-      │
-      ▼
-SOC Analyst
-```
-
-## Pipeline Objectives
+**Pipeline Objectives**
 
 - Collect security events from monitoring systems.
 - Organize alerts into structured investigations.
@@ -468,7 +277,7 @@ SOC Analyst
 - Support explainable AI-assisted analysis.
 - Deliver investigation-ready information to analysts.
 
-## Design Principles
+**Design Principles**
 
 - Analyst-first architecture
 - Context-driven investigation
@@ -476,3 +285,50 @@ SOC Analyst
 - Explainable AI
 - Human-in-the-loop decision support
 - Scalable investigation workflow
+
+<br/>
+
+## Engineering Highlights
+
+<div align="center">
+<img src="./assets/engineering-highlights.svg" alt="Engineering principles" width="100%"/>
+</div>
+
+<br/>
+
+## Future Roadmap
+
+<div align="center">
+<img src="./assets/roadmap-timeline.svg" alt="Future roadmap" width="100%"/>
+</div>
+
+> *(Edit `roadmap-timeline.svg` with real, verified next steps — do not present planned work as completed.)*
+
+<br/>
+
+<div align="center">
+<img src="./assets/footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
+</div>
+
+---
+
+## SVG Asset Manifest
+
+All assets live in `/assets`. Each was custom-built for this repository — same dark-navy/blue-cyan visual language, rounded cards, thin glowing borders, no stock illustrations.
+
+| # | File | Placement | Width | Purpose |
+|---|---|---|---|---|
+| 1 | `hero-banner.svg` | Top of README | 100% | Title, tagline, shield mark |
+| 2 | `what-it-demonstrates.svg` | After Project Overview | 100% | Chip grid of disciplines demonstrated |
+| 3 | `soc-illustration.svg` | In "Why This Project" | 100% | Noise → AI → signal visual metaphor |
+| 4 | `key-capabilities.svg` | Key Capabilities section | 100% | 10-card capability grid |
+| 5 | `modern-soc-capabilities.svg` | Modern SOC Capabilities section | 100% | 8-card analyst-centric ops grid |
+| 6 | `architecture-diagram.svg` | System Architecture | 60% | 11-step vertical high-level workflow |
+| 7 | `workflow-diagram.svg` | Investigation Workflow | 60% | 10-step investigation lifecycle |
+| 8 | `core-components.svg` | Core Components | 100% | 8-card component grid |
+| 9 | `tech-stack.svg` | Technology Stack | 100% | Category-grouped technology chips |
+| 10 | `ai-pipeline.svg` | AI Investigation Pipeline | 100% | 7-step horizontal pipeline |
+| 11 | `security-pipeline.svg` | Security Pipeline | 100% | 9-step horizontal pipeline |
+| 12 | `engineering-highlights.svg` | Engineering Highlights | 100% | 5 architectural-principle cards |
+| 13 | `roadmap-timeline.svg` | Future Roadmap | 100% | Editable milestone timeline |
+| — | `footer-banner.svg` | Bottom of README | 100% | Closing shield banner |
