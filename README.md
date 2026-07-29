@@ -251,15 +251,6 @@ Artificial Intelligence enhances the investigation workflow by combining context
 
 <br/>
 
-## Security Pipeline
-
-The security pipeline illustrates how security events progress through multiple stages before reaching the analyst. Each stage contributes additional context that improves investigation quality while maintaining a structured Security Operations Center workflow.
-
-<div align="center">
-<img src="./security-pipeline.svg" alt="Security pipeline" width="100%"/>
-</div>
-<br/>
-
 ## Engineering Highlights
 
 <div align="center">
