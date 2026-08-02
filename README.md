@@ -202,7 +202,7 @@ The AI-powered SOC Assistant follows a structured investigation workflow designe
 The platform is composed of multiple functional components that collectively support modern Security Operations Center workflows. Each component focuses on a specific responsibility while contributing to an integrated investigation experience.
 
 <div align="center">
-<img src="./ore-components.svg" alt="Core components" width="100%"/>
+<img src="./core-components.svg" alt="Core components" width="100%"/>
 </div>
 
 <br/>
