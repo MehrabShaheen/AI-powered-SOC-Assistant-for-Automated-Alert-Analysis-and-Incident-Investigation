@@ -211,10 +211,6 @@ The platform is composed of multiple functional components that collectively sup
 
 The project combines modern cybersecurity technologies, backend services, Artificial Intelligence, and data management components to demonstrate an AI-assisted Security Operations Center architecture.
 
-<div align="center">
-<img src="./tech-stack.svg" alt="Technology stack" width="100%"/>
-</div>
-
 | Category | Technologies |
 |---|---|
 | **Security Operations** | Wazuh SIEM · Sysmon · Suricata IDS · MITRE ATT&CK Framework |
