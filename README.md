@@ -1,14 +1,17 @@
 <!--
 =====================================================================
 README.md — AI-Powered SOC Assistant
-All original written content preserved verbatim. Formatting, visual
-hierarchy, and 13 custom SVGs added per the design brief.
+Theme: "Signal & Noise" (matches personal portfolio + profile README)
+Written content preserved. All diagram-style images (Architecture,
+Investigation Workflow, AI Pipeline) intentionally removed — those
+sections now rely on clean text/tables only, per request.
 
 SETUP:
-1. Create /assets folder in repo root, upload all 13 SVG files listed
-   in the "SVG Asset Manifest" section at the bottom of this file.
+1. Create /assets folder in repo root, upload all 8 SVG files:
+   header.svg, what-it-demonstrates.svg, soc-illustration.svg,
+   key-capabilities.svg, modern-soc-capabilities.svg, core-components.svg,
+   tech-stack.svg, footer.svg
 2. Place this file as README.md in the repo root.
-3. Fill in roadmap-timeline.svg milestones with real, verified plans.
 =====================================================================
 -->
 
@@ -18,12 +21,12 @@ SETUP:
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Domain](https://img.shields.io/badge/Domain-Cybersecurity-blue)
-![Focus](https://img.shields.io/badge/Focus-SOC%20Automation-orange)
-![AI](https://img.shields.io/badge/AI-LLM%20Powered-purple)
-![Architecture](https://img.shields.io/badge/Architecture-Modern%20SOC-success)
-![License](https://img.shields.io/badge/License-Academic-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-C97D3D?style=for-the-badge&labelColor=141F22)
+![Domain](https://img.shields.io/badge/Domain-Cybersecurity-4FA6A0?style=for-the-badge&labelColor=141F22)
+![Focus](https://img.shields.io/badge/Focus-SOC%20Automation-C97D3D?style=for-the-badge&labelColor=141F22)
+![AI](https://img.shields.io/badge/AI-LLM%20Powered-4FA6A0?style=for-the-badge&labelColor=141F22)
+![Architecture](https://img.shields.io/badge/Architecture-Modern%20SOC-C97D3D?style=for-the-badge&labelColor=141F22)
+![License](https://img.shields.io/badge/License-Academic-8FA0A0?style=for-the-badge&labelColor=141F22)
 
 </div>
 
@@ -158,10 +161,6 @@ This project demonstrates how Artificial Intelligence can augment modern SOC wor
 
 The AI-powered SOC Assistant follows a modular architecture designed around modern Security Operations Center workflows. Each component contributes to transforming raw security alerts into meaningful investigation outcomes while maintaining scalability, flexibility, and analyst control.
 
-<div align="center">
-<img src="./architecture-diagram.svg" alt="System architecture — high-level workflow" width="60%"/>
-</div>
-
 **Architectural Principles**
 
 | Principle | Description |
@@ -177,10 +176,6 @@ The AI-powered SOC Assistant follows a modular architecture designed around mode
 ## Investigation Workflow
 
 The AI-powered SOC Assistant follows a structured investigation workflow designed to assist security analysts from initial alert ingestion to final incident assessment. Rather than treating alerts as isolated events, the platform organizes relevant security context into a logical investigation process that improves efficiency, consistency, and decision quality.
-
-<div align="center">
-<img src="./workflow-diagram.svg" alt="Investigation workflow lifecycle" width="60%"/>
-</div>
 
 **Workflow Objectives**
 
@@ -236,10 +231,6 @@ The project combines modern cybersecurity technologies, backend services, Artifi
 
 Artificial Intelligence enhances the investigation workflow by combining contextual understanding, semantic retrieval, and explainable reasoning. Rather than replacing analyst expertise, AI acts as an intelligent investigation assistant that provides additional context for informed security decisions.
 
-<div align="center">
-<img src="./ai-pipeline.svg" alt="AI investigation pipeline" width="100%"/>
-</div>
-
 **AI Investigation Goals**
 
 - Improve investigation consistency.
@@ -249,11 +240,17 @@ Artificial Intelligence enhances the investigation workflow by combining context
 - Support analyst decision-making.
 - Accelerate security investigations while maintaining transparency.
 
-<br/>
+**AI Capabilities**
 
+- Context-aware alert analysis
+- Investigation assistance
+- Security reasoning
+- Incident summarization
+- Knowledge-assisted investigations
+- Explainable recommendations
 
 <br/>
 
 <div align="center">
-<img src="./footer-banner.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
+<img src="./footer.svg" alt="AI-Powered SOC Assistant footer" width="100%"/>
 </div>
