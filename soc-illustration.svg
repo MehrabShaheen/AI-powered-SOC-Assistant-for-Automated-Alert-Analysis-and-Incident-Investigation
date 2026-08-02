@@ -1,0 +1,52 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0D1416"/><stop offset="100%" stop-color="#141F22"/></linearGradient>
+    <filter id="g3" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#C97D3D"/></marker>
+  </defs>
+  <rect width="1000" height="320" rx="10" fill="url(#bg3)"/>
+  <text x="30" y="34" font-family="IBM Plex Mono, monospace" font-size="13" fill="#4FA6A0">MODERN SOC — FROM NOISE TO SIGNAL</text>
+
+  <g transform="translate(110,175)">
+    <text x="0" y="-90" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12" fill="#8FA0A0">Raw Alert Volume</text>
+    <g fill="#141F22" stroke="#4FA6A0" stroke-width="1">
+      <rect x="-70" y="-60" width="26" height="26" rx="4"/><rect x="-25" y="-75" width="26" height="26" rx="4"/>
+      <rect x="15" y="-55" width="26" height="26" rx="4"/><rect x="-55" y="-15" width="26" height="26" rx="4"/>
+      <rect x="0" y="-10" width="26" height="26" rx="4"/><rect x="45" y="-30" width="26" height="26" rx="4"/>
+      <rect x="-70" y="25" width="26" height="26" rx="4"/><rect x="-20" y="30" width="26" height="26" rx="4"/>
+      <rect x="30" y="15" width="26" height="26" rx="4"/>
+    </g>
+    <g fill="#C1443C" font-size="13" font-weight="700" font-family="IBM Plex Sans, sans-serif">
+      <text x="-57" y="-42">!</text><text x="-12" y="-57">!</text><text x="28" y="-37">!</text>
+      <text x="-42" y="3">!</text><text x="13" y="8">!</text><text x="58" y="-12">!</text>
+      <text x="-57" y="43">!</text><text x="-7" y="48">!</text><text x="43" y="33">!</text>
+    </g>
+  </g>
+
+  <path d="M230,175 C330,175 330,175 420,175" stroke="#C97D3D" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
+
+  <g transform="translate(500,175)">
+    <circle r="46" fill="#1B140C" stroke="#E3A768" stroke-width="2" filter="url(#g3)"/>
+    <text y="6" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" fill="#EDEAE2" font-weight="700">AI</text>
+    <text y="22" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="10" fill="#8FA0A0">Investigation</text>
+    <circle r="46" fill="none" stroke="#E3A768" stroke-width="1.5" opacity="0.6">
+      <animate attributeName="r" values="46;62;46" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M580,175 C660,175 660,175 730,175" stroke="#C97D3D" stroke-width="2" fill="none" marker-end="url(#arrow3)"/>
+
+  <g transform="translate(870,175)">
+    <text x="0" y="-90" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12" fill="#8FA0A0">Prioritized Investigation</text>
+    <rect x="-90" y="-55" width="180" height="120" rx="8" fill="#141F22" stroke="#233033" stroke-width="1"/>
+    <rect x="-75" y="-40" width="150" height="14" rx="4" fill="#C1443C" opacity="0.85"/>
+    <rect x="-75" y="-18" width="120" height="14" rx="4" fill="#4FA6A0" opacity="0.7"/>
+    <rect x="-75" y="4" width="90" height="14" rx="4" fill="#4FA6A0" opacity="0.5"/>
+    <rect x="-75" y="26" width="60" height="14" rx="4" fill="#E3A768" opacity="0.7"/>
+  </g>
+
+  <text x="500" y="285" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12" fill="#8FA0A0">
+    Analysts receive structured, explainable, prioritized findings — not raw noise.
+  </text>
+</svg>
